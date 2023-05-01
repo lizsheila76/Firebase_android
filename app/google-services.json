@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897758916728",
+    "project_id": "fire-base-953bb",
+    "storage_bucket": "fire-base-953bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897758916728:android:336b9a9bb9da66fc5dfd8d",
+        "android_client_info": {
+          "package_name": "com.liz.fire_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897758916728-f82nvn607fahp199vtg7gquq3tih2mim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZe4GxyRnu4EzV_Dy5_840l8UUvz7r_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897758916728-f82nvn607fahp199vtg7gquq3tih2mim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
